@@ -1,2 +1,3 @@
 # AdvanceNodeJS
-Advance nodejs 
+Advance nodejs.
+Understanding of emitters, eventloops and threads
